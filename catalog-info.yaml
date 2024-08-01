@@ -15,6 +15,7 @@ metadata:
     backstage.io/kubernetes-id: nopejs 
     backstage.io/techdocs-ref: dir:. 
     quay.io/repository-slug: jrichter/nodejs
+    nexus-repository-manager/docker.image-name: sample/hello
   tags: ["nodejs", "express", "ubi8", "sscs", "sbom", "acs"] 
 spec:
   type: service
